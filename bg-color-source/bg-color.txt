@@ -1,0 +1,13 @@
+/* 1.Body Background Color */
+background-image: radial-gradient( circle farthest-corner at -3.1% -4.3%, rgba(57,255,188,1) 0%, rgba(21,38,82,1) 90%);
+
+
+/* 2.Card Background Color */
+background-image: linear-gradient(to right, #f83600 50%, #f9d423 150%);
+
+
+/* 3.Button Background color */
+background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);
+
+/* 4.Button Background color hover */
+background-image: linear-gradient(to right, #495aff 0%, #0acffe 100%);
